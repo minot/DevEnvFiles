@@ -25,11 +25,13 @@
     "vim.statusBarColors.easymotionmode": "#007ACC",
     "vim.statusBarColors.easymotioninputmode": "#007ACC",
     "vim.statusBarColors.surroundinputmode": "#007ACC",
+    "vim.highlightedyank.enable": true,
+    "vim.highlightedyank.color": "rgba(250, 240, 170, 0.5)",
+    "vim.highlightedyank.duration": 300,
     "workbench.colorCustomizations": {
-        "statusBar.background": "#8FBCBB",
-        "statusBar.noFolderBackground": "#8FBCBB",
-        "statusBar.debuggingBackground": "#8FBCBB",
-        "statusBar.foreground": "#434C5E"
+        "statusBar.background": "#007ACC",
+        "statusBar.noFolderBackground": "#007ACC",
+        "statusBar.debuggingBackground": "#007ACC"
     },
     "diffEditor.ignoreTrimWhitespace": true
 }
