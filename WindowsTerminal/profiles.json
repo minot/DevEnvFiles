@@ -51,7 +51,7 @@
             "snapOnInput": true,
             "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6129}",
             "name": "git-bash",
-            "commandline": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "commandline": "C:\\Program Files\\Git\\bin\\bash.exe -i -l",
             "hidden": false,
             "startingDirectory": "%USERPROFILE%",
             "useAcrylic": true
