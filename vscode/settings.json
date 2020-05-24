@@ -1,14 +1,15 @@
 {
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "One Dark Pro",
-    "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
     "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
     "editor.fontLigatures": true,
-    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.suggestSelection": "first",
     "editor.lineNumbers": "relative",
-    "extensions.ignoreRecommendations": true,
     "editor.largeFileOptimizations": false,
+    "editor.wordWrap": "on",
+    "extensions.ignoreRecommendations": true,
     "vim.leader": "<space>",
     "vim.useCtrlKeys": true,
     "vim.hlsearch": true,
@@ -29,9 +30,10 @@
     "vim.highlightedyank.color": "rgba(250, 240, 170, 0.5)",
     "vim.highlightedyank.duration": 300,
     "workbench.colorCustomizations": {
-        "statusBar.background": "#007ACC",
-        "statusBar.noFolderBackground": "#007ACC",
-        "statusBar.debuggingBackground": "#007ACC"
+        "statusBar.background": "#8FBCBB",
+        "statusBar.noFolderBackground": "#8FBCBB",
+        "statusBar.debuggingBackground": "#8FBCBB",
+        "statusBar.foreground": "#434C5E"
     },
     "diffEditor.ignoreTrimWhitespace": true
 }
